@@ -1,0 +1,17 @@
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\bin\Debug\net6.0\task 2ci ceht.exe
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\bin\Debug\net6.0\task 2ci ceht.deps.json
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\bin\Debug\net6.0\task 2ci ceht.runtimeconfig.json
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\bin\Debug\net6.0\task 2ci ceht.dll
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\bin\Debug\net6.0\task 2ci ceht.pdb
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\task 2ci ceht.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\task 2ci ceht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\task 2ci ceht.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\task 2ci ceht.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\task 2ci ceht.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\task 2ci.15891E79.Up2Date
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\task 2ci ceht.dll
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\refint\task 2ci ceht.dll
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\task 2ci ceht.pdb
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\task 2ci ceht.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code academy task\task 20\task 2ci ceht\task 2ci ceht\obj\Debug\net6.0\ref\task 2ci ceht.dll

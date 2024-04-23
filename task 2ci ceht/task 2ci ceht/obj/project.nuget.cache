@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhaT2ojPELHaBJ/eK7H56hzI6Jnwkfx26WNQYVZCSdYDiAsEZYTwcC/b9a1tU0utcE8KUQIzRBbrJgtxBWbv1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emil\\Desktop\\code academy task\\task 20\\task 2ci ceht\\task 2ci ceht\\task 2ci ceht.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
